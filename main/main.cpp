@@ -1,6 +1,9 @@
 #include "bits/stdc++.h"
 using namespace std;
 
+void AllSum(vector<int> &v){
+    
+}
 
 
 int main(){
